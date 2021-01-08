@@ -9,3 +9,11 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axpalx&theme=dark&layout=compact)
+
+## :man_technologist: Desenvolvedor Web 
+
+Estou em processo de mudança de carreira, busco uma oportunidade de aplicar os conhecimentos que tenho adquirido durante os últimos meses de muito estudo. Acredito
+que posso me desenvolver e me tornar um excelente profissional, aplicando os conhecimentos que adquiri e evoluir a cada dia.
+
+- :wrench: Tecnologias: HTML, CSS, Javascript, ReactJS, Node.js, Typescript, SQL
+
