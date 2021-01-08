@@ -7,3 +7,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=axpalx&show_icons=true" alt="axpalx"/> 
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axpalx&theme=dark&layout=compact)
