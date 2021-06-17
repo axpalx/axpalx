@@ -5,10 +5,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Pulido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-pulido-5b243758/)](https://www.linkedin.com/in/alex-pulido-5b243758/) [![Gmail Badge](https://img.shields.io/badge/-axpalx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axpalx@gmail.com)](mailto:axpalx@gmail.com)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=axpalx&theme=dark&show_icons=true" alt="axpalx"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=axpalx&theme=blue-green&show_icons=true" alt="axpalx"/> 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axpalx&theme=dark&layout=compact)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=axpalx&theme=blue-green)
 
 ## :man_technologist: Desenvolvedor Web 
 
